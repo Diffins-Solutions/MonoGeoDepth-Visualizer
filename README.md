@@ -7,8 +7,6 @@ MonoGeoDepth-Visualizer is an integral part of our ongoing research project, **M
 The source code for this tool, along with our research paper, will be made available upon publication. We believe in open science and are excited to share our work with the global community.
 
 ## 📝 Pre-Access to Source Code
-We understand the enthusiasm of fellow researchers and developers who are eager to explore our work. Therefore, we are providing pre-access to our source code.
-
 To request pre-access, please fill out the following Google Form. Our team will review your request and get back to you at the earliest.
 
 [Google Form Link](https://forms.gle/iCdQiE14u6PNzarn7)
